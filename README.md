@@ -42,7 +42,7 @@
 ## Something you must read before using this EFI Template:
 1. Please do research your computer (Hardware, Software, PC Model...)
 
-2. If you want to use AirDrop/Hand-off/Continuity function, please replace your wireless card inside your laptop. [Wireless Buyer Guide](https://dortania.github.io/Wireless-Buyers-Guide/)
+2. If you want to use AirDrop/Hand-off/Continuity function, please replace your wireless card inside your laptop.
 - ***I haven't included wireless kext in this EFI, so you need to do it manually.***
 
 3. Change BIOS Setting as Dortania's Guide: [BIOS Setting](https://github.com/dortania/oc-laptop-guide-legacy/blob/master/before-you-start/bios-configuration.md)
