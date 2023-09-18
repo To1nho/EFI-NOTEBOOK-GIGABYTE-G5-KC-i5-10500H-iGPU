@@ -1,5 +1,4 @@
 # Gigabyte G5-KC Hackintosh
-> "Hackintosh is going to be dead, but I still love this thing, lmao"
 
 ![seggs](https://github.com/quynkk1/G5KC-Hackintosh/blob/main/giga.jpg)
 
@@ -28,9 +27,9 @@
 | Audio output | ✔️ Working | Both Internal speaker, headphones and micro |
 | Keyboard and mouse | ✔️ Working | Either volume and function key or trackpad |
 | Camera | ✔️ Working |  |
-| Battery and AC | ⭕ Something went with bugs | Read below |
-| USB Ports | ✔️ Working | Both type-A and type-C |
-| Screen output (HDMI, DP) | ❌ ... | I have no idea to fix this ... |
+| Battery and AC | ⭕ ... | Read below |
+| USB Ports | ✔️ Working | Both Type-A and Type-C |
+| Screen output (HDMI, DP) | ⭕ ... | Just MiniDP works because it's conectet on iGPU |
 | Sleep | ✔️ Working | Disable hibernate. |
 
 ## Something you must read before using this EFI Template:
