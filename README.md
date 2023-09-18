@@ -1,6 +1,6 @@
 # Gigabyte G5-KC Hackintosh
 
-![seggs](https://github.com/quynkk1/G5KC-Hackintosh/blob/main/giga.jpg)
+![seggs] (https://github.com/To1nho/EFI-NOTEBOOK-GIGABYTE-G5-KC-i5-10500H-iGPU/blob/main/sysinfo.png))
 
 ## Specification of this machine:
 | Hardware  | Name of this | Note |
