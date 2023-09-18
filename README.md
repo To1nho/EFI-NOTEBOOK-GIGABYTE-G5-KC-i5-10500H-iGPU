@@ -34,9 +34,9 @@
 | Audio output | ✔️ Working |  |
 | Keyboard and mouse | ✔️ Working |  |
 | Camera | ✔️ Working |  |
-| Battery and AC | ⭕ ... | Read below |
+| Battery and AC | ✔️ Working |  |
 | USB Ports | ✔️ Working |  |
-| Screen output (HDMI, DP) | ⭕ ... | Only MiniDP works because it's connected to the iGPU |
+| Screen output (HDMI, DP) | ✔️ Working | Only MiniDP works because it's connected to the iGPU |
 | Sleep | ✔️ Working | Disable hibernate |
 
 ## Something you must read before using this EFI Template:
