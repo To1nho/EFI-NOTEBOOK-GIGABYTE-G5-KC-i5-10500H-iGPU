@@ -10,7 +10,7 @@
 <br>
 **Release date**: 18/09/2023
 
-## Specification of this machine:
+## Specifications:
 | Hardware  | Name of this | Note |
 | ------------- | ------------- | ------------- |
 | CPU | [Intel Core i5-10500H](https://www.intel.com/content/www/us/en/products/sku/201905/intel-core-i510500h-processor-12m-cache-up-to-4-50-ghz/specifications.html)  |
@@ -29,20 +29,20 @@
 | ------------- | ------------- | ------------- |
 | Power Management | ✔️ Working |  |
 | Graphics Accelerator (Intel UHD) | ✔️ Working |  |
-| Graphics Accelerator (NVIDIA RTX) | ❌ ... | RTX is not supported by Apple. |
-| Internet | ✔️ Working | Both Wi-Fi and LAN working well |
-| Audio output | ✔️ Working | Both Internal speaker, headphones and micro |
-| Keyboard and mouse | ✔️ Working | Either volume and function key or trackpad |
+| Graphics Accelerator (NVIDIA RTX) | ❌ ... | RTX is not supported by Apple |
+| Internet | ✔️ Working |  |
+| Audio output | ✔️ Working |  |
+| Keyboard and mouse | ✔️ Working |  |
 | Camera | ✔️ Working |  |
 | Battery and AC | ⭕ ... | Read below |
-| USB Ports | ✔️ Working | Both Type-A and Type-C |
+| USB Ports | ✔️ Working |  |
 | Screen output (HDMI, DP) | ⭕ ... | Only MiniDP works because it's connected to the iGPU |
-| Sleep | ✔️ Working | Disable hibernate. |
+| Sleep | ✔️ Working | Disable hibernate |
 
 ## Something you must read before using this EFI Template:
 1. Please do research your computer (Hardware, Software, PC Model...)
 
-3. If you want to use AirDrop/Hand-off/Continuity function, please replace your wireless card inside your laptop. [Wireless Buyer Guide](https://dortania.github.io/Wireless-Buyers-Guide/)
+2. If you want to use AirDrop/Hand-off/Continuity function, please replace your wireless card inside your laptop. [Wireless Buyer Guide](https://dortania.github.io/Wireless-Buyers-Guide/)
 - ***I haven't included wireless kext in this EFI, so you need to do it manually.***
 
-4. Change BIOS Setting as Dortania's Guide: [BIOS Setting](https://github.com/dortania/oc-laptop-guide-legacy/blob/master/before-you-start/bios-configuration.md)
+3. Change BIOS Setting as Dortania's Guide: [BIOS Setting](https://github.com/dortania/oc-laptop-guide-legacy/blob/master/before-you-start/bios-configuration.md)
