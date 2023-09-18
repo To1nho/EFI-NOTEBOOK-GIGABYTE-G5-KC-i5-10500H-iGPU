@@ -1,6 +1,6 @@
 # EFI Hackintosh Gigabyte G5-KC
 
-![seggs](https://github.com/To1nho/EFI-NOTEBOOK-GIGABYTE-G5-KC-i5-10500H-iGPU/blob/main/System%20Information/sysinfow.png)![seggs](https://github.com/To1nho/EFI-NOTEBOOK-GIGABYTE-G5-KC-i5-10500H-iGPU/blob/main/System%20Information/sysinfob.png)
+![seggs](https://github.com/To1nho/EFI-NOTEBOOK-GIGABYTE-G5-KC-i5-10500H-iGPU/blob/main/System%20Information/sysinfob.png)
 
 # Basic Information
 
